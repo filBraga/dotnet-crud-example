@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/uYGnDUPOX+4v/A5ynuxMG3qyfk+vGKCEWRgdVaWqDs8ZdLfirsnRek9tVQkOu5iQlHSwAoNM/ifkRrxYnPqdA==",
+  "success": true,
+  "projectFilePath": "/Users/filipebraga/dev/crud-dotnet/crud-dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/filipebraga/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/filipebraga/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/filipebraga/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/filipebraga/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/filipebraga/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/filipebraga/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
